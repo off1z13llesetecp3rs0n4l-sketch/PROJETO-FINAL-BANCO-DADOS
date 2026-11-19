@@ -1,0 +1,15 @@
+{
+  "name": "projeto-final-banco-dados",
+  "version": "1.0.0",
+  "description": "Cadastro de categorias da Loja do Zé",
+  "license": "ISC",
+  "author": "Daniel",
+  "type": "commonjs",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "dotenv": "^18.0.9"
+  }
+}
